@@ -9,5 +9,4 @@ const info = tpl({
   job: 'front-end devloper'
 });
 
-console.log(info)
 rootEl.innerHTML = info;

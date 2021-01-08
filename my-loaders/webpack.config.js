@@ -21,7 +21,7 @@ module.exports = {
           {
             loader: 'tpl-loader',
             options: {
-              log: true
+              log: false
             }
           }
         ]
